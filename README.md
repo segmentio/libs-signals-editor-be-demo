@@ -1,2 +1,4 @@
 # libs-signals-editor-be-demo
-Backend support endpoints for the Signals prototype demo.
+
+This is a blank template for libs-signals-editor-be-demo
+
